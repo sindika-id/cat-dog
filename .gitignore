@@ -1,0 +1,15 @@
+# Data & model artifacts
+data/
+models/
+*.pt
+*.onnx
+*.h5
+
+# Virtual environment & cache
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secrets
+.env
