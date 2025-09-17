@@ -4,6 +4,7 @@ models/
 *.pt
 *.onnx
 *.h5
+.DS_Store
 
 # Virtual environment & cache
 .venv/
@@ -13,3 +14,4 @@ __pycache__/
 
 # Secrets
 .env
+/data

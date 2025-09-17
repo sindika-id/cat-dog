@@ -1,0 +1,8 @@
+torch
+torchvision
+tqdm
+onnx
+onnxruntime
+scipy
+mlflow
+boto3
