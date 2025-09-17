@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = s3://dvcstore/cat-dog
+    endpointurl = http://165.232.169.40:9000
+    use_ssl = false
